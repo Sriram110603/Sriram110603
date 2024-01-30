@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sriram110603
 - 👀 I’m interested in software developmnt
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning full stack
 - 📫 How to reach me alsriram03@gmail.com
 
 <!---
