@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sriram110603
-- 👀 I’m interested in software developmnt
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning full stack
 - 📫 How to reach me alsriram03@gmail.com
 
