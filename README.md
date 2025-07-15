@@ -32,6 +32,7 @@
 ---
 
 ### 📊 GitHub Stats
+![Sriram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sriram110603&show_icons=true&theme=github_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram110603&layout=compact&theme=github_dark)
 
