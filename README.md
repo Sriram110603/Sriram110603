@@ -40,7 +40,7 @@
 ---
 
 ### 🤝 Let’s Connect!
-- 💼 [LinkedIn]https://www.linkedin.com/in/alsriram/ *(replace with your actual link)*
+- 💼 [LinkedIn]https://www.linkedin.com/in/alsriram/ 
 - 📨 Email: alsriram03@gmail.com
 
 ---
