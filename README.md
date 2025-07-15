@@ -1,11 +1,11 @@
 # 👋 Hi there, I'm Sriram!
 
-### 💻 Aspiring Full Stack Developer | Tech Enthusiast | Problem Solver
+### 💻 Aspiring Software Developer | Tech Enthusiast | Problem Solver
 
 ---
 
-- 🔭 I’m currently building full-stack applications and sharpening my coding skills
-- 🌱 Currently diving deeper into **React, Spring Boot, and MySQL**
+- 🔭 I’m currently sharpening my coding skills
+- 🌱 Currently diving deeper into **React, Spring Boot, AWS and MySQL**
 - 👀 Passionate about **software development**, clean code, and scalable systems
 - ✍️ Love working on real-world projects and learning by doing
 - 📫 Reach me at: **alsriram03@gmail.com**
@@ -20,12 +20,14 @@
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Sriram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sriram110603&show_icons=true&theme=github_dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram110603&layout=compact&theme=github_dark)
 
 ---
@@ -38,7 +40,7 @@
 ---
 
 ### 🤝 Let’s Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) *(replace with your actual link)*
+- 💼 [LinkedIn]https://www.linkedin.com/in/alsriram/ *(replace with your actual link)*
 - 📨 Email: alsriram03@gmail.com
 
 ---
