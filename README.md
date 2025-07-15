@@ -1,4 +1,7 @@
-![Welcome Banner](https://raw.githubusercontent.com/Sriram110603/Sriram110603/main/github-header-image.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sriram110603/Sriram110603/main/github-header-image.png" alt="Hey! I am Sriram" />
+</p>
+
 
 # 👋 Hi there, I'm Sriram!
 
