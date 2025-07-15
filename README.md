@@ -35,7 +35,7 @@
 ### 🧠 Currently Learning
 - Advanced JavaScript & TypeScript
 - RESTful API Design
-- DevOps basics & CI/CD pipelines
+- DevOps basics & C#/.NET
 
 ---
 
