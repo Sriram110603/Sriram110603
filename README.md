@@ -1,5 +1,3 @@
-![Welcome to my GitHub](https://raw.githubusercontent.com/Sriram110603/Sriram110603/main/assets/banner.png)
-
 # 👋 Hi there, I'm Sriram!
 
 
@@ -32,6 +30,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram110603&layout=compact&theme=github_dark)
 
+
 ---
 
 ### 🧠 Currently Learning
@@ -41,8 +40,14 @@
 
 ---
 
+### 🎯 Fun Facts
+- I enjoy debugging more than coding 😅
+- Love building in loud café environments ☕
+- Sarcasm is my second language
+
+---
 ### 🤝 Let’s Connect!
-- 💼 [LinkedIn]https://www.linkedin.com/in/alsriram/ 
+- 💼 LinkedIn: https://www.linkedin.com/in/alsriram/ 
 - 📨 Email: alsriram03@gmail.com
 
 ---
