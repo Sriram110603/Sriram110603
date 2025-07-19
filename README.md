@@ -35,8 +35,8 @@ Welcome to my GitHub! I’m passionate about **software development**, clean cod
 ---
 
 ## 📈 GitHub Stats
-.
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sriram110603&show_icons=true&theme=dark)](https://github.com/Sriram110603)
+.[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sriram110603&show_icons=true&theme=dark)](https://github.com/Sriram110603)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram110603&layout=compact&theme=dark)](https://github.com/Sriram110603)
 
 ---
